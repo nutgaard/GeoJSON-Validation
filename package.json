@@ -1,5 +1,5 @@
 {
-  "name": "geojson-validation",
+  "name": "geojson-validation-es5",
   "version": "0.2.0",
   "description": "A GeoJSON Validation Library",
   "main": "index.js",

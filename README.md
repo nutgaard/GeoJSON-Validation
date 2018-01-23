@@ -1,6 +1,8 @@
 GeoJSON-Validation
 ==================
 
+# !NB! This is just a fork...
+
 **A GeoJSON Validation Library**  
 Check JSON objects to see whether or not they are valid GeoJSON. Validation is based off of the [GeoJSON Format Specification revision 1.0](http://geojson.org/geojson-spec.html#geojson-objects)
 
